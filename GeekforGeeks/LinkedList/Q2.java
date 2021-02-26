@@ -5,7 +5,6 @@ public class Q2 {
            Node zerolast = null;
            Node newHead=null;
            Node temp = head;
-           Stack<Integer>s=new Stack<Integer>();
             //Your Code here.
             
           while(temp != null){
