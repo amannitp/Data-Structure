@@ -29,7 +29,7 @@ class Q1
             newHead.data=1;
             newHead=newHead.next;
         }
-        for(int i=0;i<count2;i++){
+        for(int i=0;i<count2 ;i++){
             newHead.data=2;
             newHead=newHead.next;
         }
