@@ -12,8 +12,8 @@ public class Q6 {
 	            
 	        }
 	        else{
-	            prev=temp;
-	            temp=temp.next;
+	            prev =temp;
+	            temp =temp.next;
 	        }
 	    }
 	    return head;
